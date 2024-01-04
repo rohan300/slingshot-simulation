@@ -15,9 +15,9 @@ This simulation is built with Python and Pygame. The main features include:
 
 To run the simulation:
 
-\```
+```
 python slingshot.py
-\```
+```
 
 Click and hold mouse to set start point, drag to set spaceship velocity direction. Release to launch spaceship. Multiple ships can be launched.  
 
