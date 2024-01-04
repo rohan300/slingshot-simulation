@@ -32,14 +32,14 @@ Some parameters can be tweaked at the top of the code:
 - \`G\` - Gravitational constant  
 - \`VEL_SCALE\` - Controls speed of spaceships
 
+## Demo
+![](https://github.com/rohan300/slingshot-simulation/blob/main/assets/slingshot.gif)
+
 ## Future Improvements
 
 Some ideas for extending the simulation:  
 
 - Add UI for setting parameters   
 - Visual effects for engine burn, explosions  
-- Multiple planets  
-- Simulate over longer time periods  
+- Multiple planets   
 - Save/load simulation states  
-
-Overall this demonstrates a basic gravitational slingshot mechanic that could be built upon in many ways!
