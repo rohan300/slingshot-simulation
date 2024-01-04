@@ -33,7 +33,7 @@ Some parameters can be tweaked at the top of the code:
 - \`VEL_SCALE\` - Controls speed of spaceships
 
 ## Demo
-![](https://github.com/rohan300/slingshot-simulation/blob/main/assets/slingshot.gif)
+![Demo](https://github.com/rohan300/slingshot-simulation/blob/main/assets/slingshot.gif)
 
 ## Future Improvements
 
